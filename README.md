@@ -23,7 +23,7 @@
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://github.com/JulienArbellini">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MoulinLouis&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=JulienArbellini&theme=react&background=0d1117&border=666">
   </a>
   <br>
   <a href="https://github.com/JulienArbellini">
@@ -32,5 +32,5 @@
 </p>
 
 <a href="https://github.com/JulienArbellinis">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=MoulinLouis.JulienArbellini&style=for-the-badge">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=JulienArbellini.JulienArbellini&style=for-the-badge">
 <a>
