@@ -35,7 +35,7 @@
   </a>
   <br>
   <a href="https://github.com/JulienArbellini">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JulienArbellini&theme=radical&hide_border=true">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JulienArbellini&count_private=true&theme=radical&hide_border=true">
   </a>
 </p>
 
