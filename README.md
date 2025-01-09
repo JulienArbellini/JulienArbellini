@@ -43,7 +43,7 @@
 
 <h1 align="center">🌐 Let's Connect</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/julienarbellini/">
+  <a href="https://www.linkedin.com/in/julien-arbellini">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:julien.arbellini@example.com">
