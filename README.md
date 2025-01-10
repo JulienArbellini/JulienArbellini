@@ -31,10 +31,6 @@
 <h1 align="center">🔥 Contributions</h1>
 <p align="center">
   <a href="https://github.com/JulienArbellini">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=JulienArbellini&theme=radical&hide_border=true">
-  </a>
-  <br>
-  <a href="https://github.com/JulienArbellini">
     <img src="https://github-readme-stats.vercel.app/api?username=JulienArbellini&count_private=true&show_icons=true&theme=radical&hide_title=true">
   </a>
 </p>
