@@ -19,8 +19,6 @@
 
 <h1 align="center">🔥 Contributions</h1>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JulienArbellini&theme=radical">
-</p>
+🔥 **Streak**: Julien has been coding daily for X days in a row!
 
 
