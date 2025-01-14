@@ -20,7 +20,7 @@
 <h1 align="center">🔥 Contributions</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulienArbellini&theme=radical">
+  <img src="https://streak-stats.demolab.com/?user=JulienArbellini&theme=radical">
 </p>
 
 
