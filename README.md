@@ -29,7 +29,7 @@
 ---
 
 <h1 align="center">🔥 Contributions</h1>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=JulienArbellini" alt="GitHub Streak" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JulienArbellini)](https://git.io/streak-stats)
 
 ---
 
