@@ -16,22 +16,6 @@
 
 ---
 
-<h1 align="center">📊 My GitHub Stats</h1>
-<p align="center">
-  <a href="https://github.com/JulienArbellini">
-    <img src="https://github-readme-stats.vercel.app/api?username=JulienArbellini&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" height="165">
-  </a>
-  <a href="https://github.com/JulienArbellini">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienArbellini&count_private=true&layout=compact&hide_border=true&theme=radical" height="165">
-  </a>
-</p>
-
----
-
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=JulienArbellini" alt="GitHub Streak" /></a>
-
----
-
 <h1 align="center">🌐 Let's Connect</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/julien-arbellini">
