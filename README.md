@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-![readmebox](https://github.com/MeerUzairWasHere/MeerUzairWasHere/assets/121447358/68ea3c07-46e9-41fe-a331-ef61a311634f)
-
 <p align="center">
   <strong>👋 Hi there! I'm a passionate web developer with a love for solving complex problems and creating meaningful digital experiences. Explore my repositories and feel free to reach out!</strong>
 </p>
